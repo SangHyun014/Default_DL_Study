@@ -16,24 +16,15 @@
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
 |   <img width="160px" src="https://avatars.githubusercontent.com/u/94032326?v=4" />    |                      <img width="160px" src="https://avatars.githubusercontent.com/u/87685922?v=4" />    |                   <img width="160px" src="https://avatars.githubusercontent.com/u/41298500?v=4"/>   |
 |   [@hunction](https://github.com/hunction)   |    [@SangHyun014](https://github.com/SangHyun014)  | [@kwarkmc](https://github.com/kwarkmc)  |
-| 한양대학교 ERICA 전자공학부
-4학년 | 한양대학교 ERICA 전자공학부
-4학년 | 한양대학교 ERICA 전자공학부
-3학년 |
+| 한양대학교 ERICA 전자공학부      4학년 | 한양대학교 ERICA 전자공학부     4학년 | 한양대학교 ERICA 전자공학부     3학년 |
+
+## 딥러닝 세미나 소개
+
+**한양대학교 ERICA 전자공학부 전공학회 DEFAULT** 에서 학기 중에 진행된 딥러닝 스터디를 바탕으로 **더욱 심화된 DL/ML** 관련 기술 및 논문에 대해 리뷰하고 실제 모델에 적용하여 개발 경험을 쌓고자 하는 목적으로 시작된 학생 모임이다.
 
 ## 프로젝트 소개
 
-발룬테인은 온라인 코딩 교육 봉사를 하는 단체입니다. 기존에 소프트웨어학과에서 월드프렌즈 ICT 봉사단이라는 개발도상국에서 약 학 달 간 코딩 교육 봉사를 하는 활동이 있었는데, 봉사가 일회성으로 끝나는 점에 아쉬움을 느껴 지속적인 봉사를 하고자 만들어졌습니다. 발룬테인에서는 스크래치, 파이썬 등 프로그래밍 언어에 관한 강의를 제공하고, 질의응답과 라이브 세션을 통해 한국 학생과 외국 학생 간에 소통이 이루어집니다.
-
-#### Voluntain will share the knowledge of programming.
-You can take easy-to-understand lectures created by our team, including Scratch and Python. Also, improve your understanding and application skills of programming with exercise questions in the lecture videos.
-
-#### Voluntain's website will give you a learning-friendly environment.
-
-Our website supports the following component.
-1. Various online lectures with detailed descriptions and exercise questions.
-2. Q&A section to ask questions freely.
-3. Function to check the lecture you watched recently.
+에서의 첫 번째 개발 프로젝트로, 
 
 ## 시작 가이드
 ### Requirements
