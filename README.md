@@ -1,26 +1,22 @@
-# Voluntain-2nd
+# RestApp
 
 <div align="center">
-<img width="329" alt="image" src="https://user-images.githubusercontent.com/50205887/207568862-cdc9e2c0-b03c-43ff-bf46-3ba79a110d0c.png">
+<img width="329" alt="image" src="https://github.com/kwarkmc/RestApp/blob/3ef8ce603e59da37405c2a701fc839226da04a65/Documents/pic/Logo.png">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVoluntain-SKKU%2FVoluntain-2nd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkwarkmc%2FRestApp&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
-# Voluntain Web Page v2.0
-> **성균관대학교 소프트웨어학과 온라인 해외봉사 단체** <br/> **개발기간: 2022.03 ~ 2022.10**
-## 배포 주소
+# RestApp
+> **한양대학교 ERICA 전자공학부 전공학회 DEFAULT 딥러닝 세미나 결과물** <br/> **개발기간: 2022.07 ~ 2022.09**
 
-> **개발 버전** : [http://voluntain.cs.skku.edu/](http://voluntain.cs.skku.edu/) <br>
-> **프론트 서버** : [http://voluntain.cs.skku.edu:33307/](http://voluntain.cs.skku.edu:33307/)<br>
-> **백엔드 서버** : [http://voluntain.cs.skku.edu:2223/](http://voluntain.cs.skku.edu:2223/)<br>
-## 웹개발팀 소개
+## 세미나 멤버 소개
 
-|      박지예       |          서채연         |       이현정         |                                                                                                               
+|      배성현       |          주상현         |       곽민창         |                                                                                                               
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|   <img width="160px" src="https://user-images.githubusercontent.com/50205887/205326013-af001243-a77d-4601-8bfc-aa713931cf95.png" />    |                      <img width="160px" src="https://user-images.githubusercontent.com/50205887/207570536-f5a82e48-99a1-4399-91d3-75fc5f8f3349.png" />    |                   <img width="160px" src="https://user-images.githubusercontent.com/50205887/207570634-247c3715-a54e-4f63-8c08-9b266f8a35f7.png"/>   |
-|   [@parkjiye](https://github.com/parkjiye)   |    [@ChaeyeonSeo](https://github.com/ChaeyeonSeo)  | [@hyunjeong408](https://github.com/hyunjeong408)  |
-| 성균관대학교 소프트웨어학과 4학년 | 성균관대학교 소프트웨어학과 4학년 | 성균관대학교 소프트웨어학과 4학년 |
+|   <img width="160px" src="https://avatars.githubusercontent.com/u/94032326?v=4" />    |                      <img width="160px" src="https://avatars.githubusercontent.com/u/87685922?v=4" />    |                   <img width="160px" src="https://avatars.githubusercontent.com/u/41298500?v=4"/>   |
+|   [@hunction](https://github.com/hunction)   |    [@SangHyun014](https://github.com/SangHyun014)  | [@kwarkmc](https://github.com/kwarkmc)  |
+| 한양대학교 ERICA 전자공학부 4학년 | 한양대학교 ERICA 전자공학부 4학년 | 한양대학교 ERICA 전자공학부 3학년 |
 
 ## 프로젝트 소개
 
