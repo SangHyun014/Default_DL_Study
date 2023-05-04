@@ -24,7 +24,9 @@
 
 ## 프로젝트 소개
 
-에서의 첫 번째 개발 프로젝트로, 
+딥러닝 세미나에서 진행한 첫 번째 프로젝트로, 학교 주변 카페와 음식점의 사진을 직접 팀원들이 사진을 찍어 DataSet을 만들었고, 1000개 이상의 이미지를 Augmentation을 통해 다시 증강하여 CNN Network Model을 이용하여 Classification을 위해 학습시켰다.
+
+ResNet 등의 실제 모델을 사용하여 학습을 진행하고, 직접 CNN Network를 이해하기 위해 Sequential Model을 직접 구성하여 Data를 Input 하는 부분부터 Output으로 Classification 하는 일련의 과정을 이해할 수 있었다.
 
 ## 시작 가이드
 ### Requirements
